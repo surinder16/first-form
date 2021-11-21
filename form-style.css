@@ -1,0 +1,149 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0%;
+}
+body{
+    background-color:rgb(89, 228, 228);
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
+.head-container{
+    display: flex;
+    justify-content: center;
+    
+}
+span{
+  display: block;
+  margin-left: 120px;
+  text-decoration: underline;
+  color: rgb(8, 29, 22);
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    margin-left: 50px;
+
+}
+
+.form-container [type=text]{
+    font-size: 50px;
+    margin: 20px;
+    border-radius: 5px;
+
+
+  
+}
+
+input{
+    font-size: 50px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.date{
+    width: 600px;
+}
+select{
+    font-size: 50px;
+    margin: auto 40px;
+    color:black;
+    background-color:white;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label{
+    font-size: 48px;
+   border: 3px solid;
+   background-color: white;
+    color:rgb(54, 43, 43);
+   font-size: 50px;
+   margin-left: 20px;
+   border-radius: 5px;
+}
+textarea{
+    display: inline;
+    margin-top: 150px;
+    border-radius: 10px;
+    margin-left:370px; 
+}
+
+
+.label-1{
+    height: 60px;
+    margin-left: 400px ;
+    position: relative;
+    top: 40px;
+    
+}
+hr{
+
+}
+.arrow{
+    font-size: 120px;
+    margin-left: 625px;
+    height: 100px;
+    padding-top: 50px;
+}
+
+
+.img-1{
+    display: inline-block;
+
+}
+input[type=file]{
+    margin-left: 720px;
+   position: relative;
+   bottom: 120px;
+}
+.img{
+    position: relative;
+    top: 140px;
+}
+.arrow-1{
+    margin-left: 500px;
+    font-size: 120px;
+   
+}
+#text-area{
+  
+    position: relative;
+    right: 375px;
+}
+.suggestion{
+    border-style: none;
+    margin-left:300px ;
+    
+}
+.msg{
+    float: right;
+    position: relative;
+    bottom: 400px;
+    font-size: 200px;
+}
+.msg-1{
+    
+    position: relative;
+    bottom: 400px;
+    font-size: 200px;
+   right: 50px;
+}
+.logo-2{
+    float: right;
+    font-size: 100px;
+    position: relative;
+    right: 50px;
+    bottom:138px;
+
+    
+}
+.logo{
+    position: relative;
+    bottom: 200px;
+}
+.logo-1{
+    font-size: 100px;
+    
+}
